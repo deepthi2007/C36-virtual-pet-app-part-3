@@ -12,12 +12,12 @@ var tina;
 //Create variables here
 
 function preload(){
-  dogimg1 = loadImage("images/dogImg.png");
-  dogimg2 = loadImage("images/dogImg1.png");
+  dogimg1 = loadImage("dogImg.png");
+  dogimg2 = loadImage("dogImg1.png");
 
-  bedroomImg = loadImage("images/BedRoom.png");
-  washroomImg = loadImage("images/Wash Room.png");
-  gardenImg = loadImage("images/Garden.png");
+  bedroomImg = loadImage("BedRoom.png");
+  washroomImg = loadImage("Wash Room.png");
+  gardenImg = loadImage("Garden.png");
 	//load images here
 }
 
